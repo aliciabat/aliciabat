@@ -40,6 +40,11 @@ Here are some ideas to get you started:
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=aliciabat&show_icons=true&theme=dracula&hide=contribs&show=reviews&rank_icon=github&include_all_commits=true" />
 </a>
 -->
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliciabat&layout=compact&theme=dracula&langs_count=7" />
-</a>
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=aliciabat&layout=compact&theme=dracula&langs_count=7" />
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=aliciabat&theme=dracula&mode=weekly&card_height=200" alt="GitHub Streak" />
+  </a>
+</div>
