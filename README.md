@@ -20,9 +20,11 @@ Here are some ideas to get you started:
 <img align="center" height="240"   src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXVkY3VsOGdzdndpdXJwdnp1b3V2eDVnamJ4MTM5ZTBlemNydDljbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" />
 -->
 
-🦄 Full Stack Designer  
-🤓 Venturing into mobile dev
+📚 Currently studying software engineering  
+🧑‍💻 Former front end developer  
+✨ Gunpla builder on my free time
 
+### Skills
 
 <div style="display: inline_block;">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
